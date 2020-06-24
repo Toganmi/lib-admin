@@ -3,8 +3,8 @@ import VueRouter from 'vue-router'
 
 
 // const Login = () => import('../views/login/Login')
-const Home = () => import('../views/Home')
-const Login = () => import('../views/Login')
+const Home = () => import('../views/Home')         //主页
+const Login = () => import('../views/Login')       //登录页
 const ObstacleMgt = () => import('../views/ObstacleMgt')
 
 
